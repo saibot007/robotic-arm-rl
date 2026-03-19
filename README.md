@@ -25,6 +25,7 @@ robotic-arm-rl/
 ├── README.md
 ├── requirements.txt
 └── results.txt
+```
 
 ## Status
 🚧 Project in progress — currently setting up environment and base structure.
