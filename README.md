@@ -16,15 +16,19 @@ The goal is to enable the robotic arm to learn tasks such as:
 - Git & GitHub
 
 ## Project Structure
+
+```text
 robotic-arm-rl/
-│
-├── src/        # core code
-├── videos/     # simulation outputs
-├── main.py     # entry point
+├── src/               # core code
+├── videos/            # simulation outputs
+├── main.py            # entry point
 ├── README.md
 ├── requirements.txt
+└── results.txt
+
 ## Status
 🚧 Project in progress — currently setting up environment and base structure.
+
 ## Current Progress
 
 - Implemented CartPole simulation
