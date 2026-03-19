@@ -1,0 +1,1 @@
+print("Physicsl AI project started")
